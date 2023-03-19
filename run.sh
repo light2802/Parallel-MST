@@ -1,6 +1,6 @@
 #!/bin/bash
 
-data=("clean-soc-pokec-relationships.txt"  "GermanyRoadud.txt" "clean-soc-sinaweibo.txt" "USAud.txt" "clean-soc-twitter.txt")
+data=("email-Enron.txt" "email-Eu-core.txt" "facebook_combined.txt" "u10m_80m.txt" "musae_facebook_edges.csv")
 
 mpic++ main.cc
 
